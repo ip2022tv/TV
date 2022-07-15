@@ -1,0 +1,129 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" ,ANIMAL PLANET
+
+http://204.199.84.50:9271/live321/animalplanet/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="2" ,BABY TV
+
+http://204.199.84.50:9271/live321/babytv/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="3" ,BOOMERANG
+
+http://204.199.84.50:9271/live321/boomeran/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="4" ,CABLE NOTICIAS
+
+http://200.69.83.106:57236/live320/cablenoticias/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="5" ,CANAL CONGRESO
+
+http://204.199.84.50:9271/live321/canalcongreso/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="6" ,CANAL TRECE
+
+http://204.199.84.50:9271/live321/canaltrece/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="7" ,CANAL TRO
+
+http://204.199.84.50:9271/live321/canaltro/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="8" ,CINE LATINO
+
+http://181.78.0.192:10105/live320/cinelatino/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="9" ,CINE CANAL
+
+http://190.109.49.223:21402/live320/cinecanal/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="10" ,CNN
+
+http://138.186.23.7:22281/live320/cnn/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="11" ,CRISTO VISION
+
+http://190.109.49.223:21402/live320/cristovision/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="12" ,DHE
+
+http://190.109.49.223:21402/live320/dhe/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="13" ,DISCOVERY CHANNEL
+
+http://138.186.23.7:22281/live320/discoverychannel/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="14" ,DISCOVERY CHANNEL
+
+http://190.109.49.223:21402/live320/discoverychannel/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="15" ,DISCOVERY ID
+
+http://190.109.49.223:21402/live320/discoveryid/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="16" ,ENLACE
+
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-chno="17" ,ESPN EXTRA
+
+http://190.109.49.223:21402/live320/espnextra/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="18" ,FOOD NETWORK
+
+http://190.90.147.106:57243/live320/foodnetwork/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="19" ,ESPN 4
+
+http://204.199.84.50:9271/live321/foxsport/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="20" ,FX
+
+http://190.109.49.223:21402/live320/fx/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="21" ,HGTV
+
+http://190.90.147.106:57243/live320/hgtv/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="22" ,HOGARTV
+
+http://204.199.84.50:9271/live321/hogartv/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="23" ,DISCOVERY ID
+
+http://190.109.49.223:21402/live320/discoveryid/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="24" ,INFANTIL
+
+http://138.186.23.7:22281/live320/infantil/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="25" ,PARAMOUNT
+
+http://190.109.49.223:21402/live320/paramount/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="26" ,PREMIUM
+
+http://138.186.23.7:22281/live320/premium/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="27" ,RANCHENATO
+
+http://204.199.84.50:9265/live321/ranchenato/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="28" ,RCN
+
+http://138.186.23.7:22281/live320/rcn/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="29" ,RCN NOVELAS
+
+http://138.186.23.7:22281/live320/rcnovelas/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="30" ,RUMBA
+
+http://190.109.49.223:21402/live320/rumba/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="31" ,DISCOVERY SCIENCE
+
+http://204.199.84.50:9271/live321/discoveryscience/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="32" ,STAR
+
+http://181.78.0.192:10105/live320/starchannel/mpeg.2ts
