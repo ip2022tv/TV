@@ -127,3 +127,7 @@ http://204.199.84.50:9271/live321/discoveryscience/mpeg.2ts
 #EXTINF:-1 tvg-chno="32" ,STAR
 
 http://181.78.0.192:10105/live320/starchannel/mpeg.2ts
+
+#EXTINF:-1 tvg-chno="33" ,WIN SPORT +
+
+http://138.186.23.7:22281/live320/venus/mpeg.2ts
